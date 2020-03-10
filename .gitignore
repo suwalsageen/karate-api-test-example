@@ -1,0 +1,11 @@
+/target/
+src/test/resources/temp
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+korejava.iml
+.idea/
