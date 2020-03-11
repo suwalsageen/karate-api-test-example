@@ -13,7 +13,7 @@ function fn() {
     // e.g. config.foo = 'bar';
 
     config.appUrl = 'https://gorest.co.in';
-    config.token = 'iUpQB-esALmDkO6eSbDhq9KgwbTLYKAXSNd1';
+    config.token = 'iUpQB';
   }
   return config;
 }
