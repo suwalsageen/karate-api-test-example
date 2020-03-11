@@ -11,5 +11,5 @@ Feature: Get User By Id
 
     When method get
 
-    Then status 200
+    Then status 201
     And match response.result.id == userId
